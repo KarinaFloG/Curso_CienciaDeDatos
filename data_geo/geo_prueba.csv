@@ -1,0 +1,916 @@
+city,page_uniques
+Torreon,2118
+San Luis Potosi,3772
+Ecatepec De Morelos,3154
+Matamoros,297
+Oaxaca De Juarez,1159
+Cabo San Lucas,802
+San Nicolas De Los Garza,1143
+Chihuahua,3113
+Coacalco,1028
+San Miguel De Allende,374
+Villahermosa,2938
+Teocuitatlan De Corona,26
+Metepec,1071
+Charay,6
+Valle De Chalco,356
+Guaymas,362
+Tultepec,79
+San Luis Rio Colorado,85
+Nogales,509
+Lazaro Cardenas,350
+Zapotlanejo,80
+Apatzingan,106
+Xalapa,2118
+Benito Juarez,53
+Obregon,854
+Santa Cruz Amilpas,38
+San Pedro Garza Garcia,592
+Tenancingo De Degollado,10
+Puerto Vallarta,880
+La Barca,26
+Nicolas Romero,432
+Moroleon,177
+Tula De Allende,711
+Cuyutlan,64
+Tezontepec De Aldama,19
+San Juan De Los Lagos,63
+Cananea,56
+Acapulco De Juarez,143
+Villa Nicolas Romero,66
+Juchitepec,12
+Nuevo Vallarta,306
+Sahuayo,54
+Zitacuaro,86
+Guasave,168
+Lagunas,5
+Alvarado,25
+Isla,3
+Lerma De Villada,19
+Tlanalapa,11
+Ciudad Constitucion,15
+El Mante,38
+Ameca,27
+Victoria De Durango,27
+Santiago Tuxtla,15
+Ahome,6
+San Luis De La Paz,81
+Ezequiel Montes,16
+Tapalpa,15
+Xalapa-enriquez,36
+Santa Cruz De Juventino Rosas,14
+Barrio De Jalisco,3
+San Miguel Allende,18
+Tulum,61
+Tejupilco De Hidalgo,18
+Ocoyoacac,13
+Santiago,17
+Cuajimalpa,49
+Cihuatlan,3
+Capulhuac,10
+Ciudad Hidalgo,37
+San Andres Atenco,5
+Ermita Zaragoza,50
+Xochitepec,38
+Huetamo,6
+Poza Rica De Hidalgo,91
+Culturas De Mexico,4
+Santa Maria Zacatepec,5
+Bajos De Chila,5
+Juventino Rosas,11
+Tuxpam De Rodriguez Cano,49
+Tlaxiaco,20
+Calpulalpan,2
+Acolman,45
+Singuilucan,5
+Villa De Cos,9
+Huixquilucan De Degollado,20
+Playas De Rosarito,29
+Nueva Rosita,26
+Tihuatlan,18
+Ixtepec,34
+Bella Aurora,5
+Acula,2
+Amatitan,7
+Chignautla,13
+Kanasin,10
+Fuentes De Satelite,10
+Tabasco,13
+Nonoalco Tlatelolco,1
+Estrella,33
+Esqueda,3
+San Pedro Mixtepec Juquila,6
+Navidad,5
+Ayutla De Los Libres,7
+Sahuayo De Morelos,10
+San Matias Tlalancaleca,3
+Xico,6
+Rayon,11
+Autlan,3
+Carlos A. Carrillo,2
+Tizapan El Alto,10
+Calkini,5
+Santa Maria Tultepec,5
+Cadereyta,5
+Independencia,1
+Progreso,4
+Castillo De Teayo,3
+Ejutla De Crespo,8
+Atoyac De Alvarez,9
+San Lorenzo Tlacotepec,4
+Jalpa,5
+Zapotitlan Salinas,2
+Isla Mujeres,6
+Valle De Juarez,2
+Bellavista,1
+Santa Maria Mixtequilla,1
+Agua Nacida,2
+Villanueva,3
+Arteaga,1
+Ciudad Pemex,3
+Mazamitla,1
+Tecalitlan,6
+Platon Sanchez,1
+Tequesquitengo,4
+Leon,5775
+Jiquilpan,2
+Cholula,100
+San Blas Atempa,1
+Tlalnepantla,2446
+Santa Cruz Huatulco,1
+Naucalpan,4968
+Heroes De Padierna,2
+Atotonilco El Alto,71
+Santa Rosa Jauregui,1
+Estado De Mexico,190
+Santiago De Anaya,2
+Ciudad Guzman,425
+Bamoa,1
+Coacalco De Berriozabal,463
+Mexico City,140541
+Juchitan,58
+Veracruz,2632
+Tejupilco,39
+Villa De Alvarez,367
+Huatusco,26
+Pachuca,2152
+Manzanillo,509
+Juarez,2263
+Jiutepec,358
+Ensenada,876
+Uruapan,631
+Guadalupe,1902
+Agua Prieta,70
+Juchitan De Zaragoza,345
+Tequila,3
+Chilpancingo,1479
+Cerro Azul,48
+Ixtapaluca,683
+Acayucan,23
+Campeche,928
+Ciudad Juarez,53
+Centro,622
+General Escobedo,35
+San Pedro Cholula,128
+Xicotepec De Juarez,17
+Victoria,344
+San Pedro Pochutla,26
+Estado De Queretaro,72
+San Pablo Chimalpa,25
+Sabinas,75
+Tlajomulco,49
+Playa Del Carmen,683
+Izucar De Matamoros,25
+Cajeme,69
+Nanchital,30
+Mixquiahuala,35
+El Rosario,7
+Coatzintla,38
+Arriaga,6
+Iztacalco,27
+Penjamo,11
+Huatulco,154
+Ixtapa Zihuatanejo,5
+Coronango,1
+Pinal De Amoles,14
+Teotihuacan,64
+Miahuatlan De Porfirio Diaz,2
+Ciudad Madero,211
+Ixtaczoquitlan,25
+San Martin Xochinahuac,7
+Escobedo,38
+Las Varas,12
+Pochutla,5
+Loreto,10
+Capulhuac De Mirafuentes,6
+Zacatelco,7
+Xicohtzinco,6
+San Andres Cholula,70
+Guadalupe Insurgentes,21
+Garcia,22
+Rosarito,5
+Tequisquiapan,53
+San Felipe,4
+Texcoco De Mora,41
+Amozoc,10
+San Rafael,10
+Tezoyuca,5
+Garcia De La Cadena,2
+San Juan De Sabinas,1
+San Pedro Lagunillas,2
+Tulancingo De Bravo,25
+Mexico Distrito Federal,21
+El Mirador,10
+Tonatico,7
+Heroica Caborca,8
+Santa Catarina Ayometla,1
+Comala,8
+Culiacan Rosales,5
+Periban De Ramos,11
+Allende,34
+Abasolo,8
+Tecpan De Galeana,3
+Heroica Ciudad De Cananea,9
+Tlaxcala De Xicohtencatl,2
+Tamazunchale,9
+Chapulco,6
+Santa Rosalia,3
+Santa Maria Atzompa,4
+San Jeronimo Zacualpan,7
+Linares,10
+Casimiro Castillo,14
+Lerdo De Tejada,15
+Tepeyanco,3
+Chicapa De Castro,7
+El Barrio De La Soledad,3
+Champoton,7
+Calera,4
+Coeneo,13
+Ciudad Lazaro Cardenas,7
+San Jeronimo Miacatlan,8
+Acambay,7
+Tres Valles,10
+Pichucalco,2
+Santiago Maravatio,1
+Tanhuato,2
+San Francisco De Los Romo,10
+Colon,8
+Salinas Victoria,3
+Chilapa,3
+Mesa De Guadalupe,3
+Solidaridad,1
+Agosto,27
+Santa Cruz Atizapan,7
+Apaseo El Grande,3
+Huejuquilla El Alto,1
+Michoacan,6
+Ocosingo,3
+Los Reyes De Salgado,8
+Dzitbalche,2
+Medellin,3
+Delegacion Coyoacan,5
+Apetatitlan,7
+El Pitahayal,1
+Tierra Blanca Booxter,4
+Purepero,7
+Juan Rodriguez Clara,5
+Concepcion Del Oro,2
+Acatlan De Juarez,2
+Tacoaleche,1
+Cojumatlan,1
+Loma De San Felipe,2
+Pinos,2
+Medellin De Bravo,3
+Amealco De Bonfil,1
+San Juan Cosala,4
+Ciudad Apodaca,2
+El Retono,2
+Camutla,1
+Maravatio,2
+Halacho,1
+Rafael Delgado,1
+Lomas De Santa Fe,1
+Mazatlan,1342
+Zimapan,1
+Navojoa,210
+Cuarto Centenario,1
+Sahagun,54
+Mexicali,1612
+Jojutla,154
+Cancun,2522
+Tlaxcala,866
+Fresnillo,174
+Durango,1344
+Los Mochis,1477
+Boca Del Rio,274
+Queretaro,4927
+Misantla,22
+Martinez De La Torre,60
+Ocotlan,139
+Ciudad Del Carmen,479
+La Piedad,183
+Poza Rica,992
+San Francisco Del Rincon,51
+Tepatitlan De Morelos,175
+Tlalpan,107
+Huehuetoca,81
+Teziutlan,65
+Delicias,204
+Tehuantepec,21
+Magdalena De Kino,42
+Tepeapulco,32
+Cuautitlan,315
+San Juan De Los Arcos,32
+Hopelchen,52
+Pedro Escobedo,10
+Huixquilucan,341
+Apizaco,68
+Huejutla,16
+Arandas,67
+Azcapotzalco,215
+Chicontepec,9
+Puerto Escondido,107
+Ciudad Mante,19
+Iguala,311
+Comonfort,13
+Puerto Penasco,125
+Penjamillo,3
+Chilapa De Alvarez,15
+Tepexi De Rodriguez,4
+Cuautepec,13
+Heroica Ciudad De Tlaxiaco,14
+Zihuatanejo,129
+Nuevo Casas Grandes,35
+San Jose Iturbide,42
+Tepatitlan,41
+Ixtlahuaca,12
+Campo De Tiro Los Gamitos,13
+Santiago Pinotepa Nacional,24
+Coatepec,5
+Jimenez,11
+Villa Hidalgo,9
+Vega De Alatorre,5
+Tepecoacuilco De Trujano,3
+Petlalcingo,7
+Los Reyes,16
+Tierra Blanca,63
+Bucerias,3
+Ixtlan Del Rio,7
+Chiapa De Corzo,42
+Huehuetan,24
+San Andres Ahuashuatepec,2
+Colonia Agricola El Naranjo,4
+Ciudad Insurgentes,3
+Cumpas,3
+Tantima,2
+Valladolid,8
+Brisas De Zicatela,4
+Tlapa De Comonfort,11
+Taxco,28
+Cienega De Flores,4
+Teloloapan,10
+Santa Cruz Tlaxcala,5
+Villa Juarez,5
+Coscomatepec,7
+Capilla De Guadalupe,10
+Tlahuac,56
+Progreso De Obregon,12
+Frontera,43
+Nochistlan De Mejia,5
+Santa Cruz Xoxocotlan,2
+Tepetlaoxtoc,7
+Domingo Arenas,5
+Puerto Angel,2
+San Francisco De Campeche,29
+El Arrayan,4
+San Jose De Gracia,8
+Jerecuaro,2
+Ciudad Sahagun,3
+Agujita,2
+Suchiapa,4
+Yecapixtla,10
+Alvaro Obregon,53
+Rio Rico,2
+Graciano Sanchez,13
+Parras De La Fuente,1
+Huatabampo,8
+San Pedro,1
+Matehuala,52
+Acaponeta,8
+Atlacomulco,34
+Camargo,3
+Costa Blanca,4
+Jesus Carranza,1
+Amatlan De Los Reyes,5
+Yanga,4
+Cuyoaco,5
+Caxuxi,1
+Teapa,29
+Huichapan,2
+Mier,7
+Cuitzeo,3
+Tototlan,4
+Cuisillos,7
+San Miguel El Alto,17
+Ciudad Lopez Mateos,2
+Amecameca,6
+Valle De Banderas,1
+Magdalena,3
+Castanos,1
+Iramuco,4
+Chiapas,1
+Huejotzingo,5
+Atizapan De Zaragoza,3776
+Cueramaro,3
+Pachuca De Soto,615
+El Cerezo,10
+Tijuana,4211
+San Andres Ixtlan,3
+Hermosillo,3018
+Jalostotitlan,18
+Chalco,905
+Nextlalpan,10
+Atitalaquia,59
+Paseos De Taxquena,5
+Chilpancingo De Los Bravo,98
+San Jose Chiapa,1
+Minatitlan,766
+Jesus Maria,9
+Tultitlan De Mariano Escobedo,77
+El Carmen,5
+Tonala,599
+Agustin Arriaga Rivera,3
+Malinalco,19
+Tamazulita,5
+Hidalgo,199
+Catemaco,4
+Tepic,1238
+Santa Ana,7
+Acambaro,56
+Santa Lucia Del Camino,2
+Rio Grande,38
+Buenavista De Cuellar,1
+Valle De Santiago,14
+Tinguindin,3
+Huajuapan De Leon,327
+Ocozocoautla De Espinosa,4
+Guerrero,7
+Cocula,1
+Atlatlahucan,50
+,21806
+Altamira,68
+Puebla,13646
+Ciudad Ixtepec,25
+Merida,6732
+Tlaxcoapan,32
+Guadalajara,14984
+Mineral De La Reforma,181
+Cuautitlan Izcalli,4303
+Santo Domingo Tehuantepec,54
+Saltillo,1274
+Tepotzotlan,30
+Tultitlan,733
+Tehuacan,259
+Ecatepec,772
+Yuriria,42
+Guanajuato,443
+Atlixco,212
+Santiago Tianguistenco,34
+Tuxtepec,52
+Zamora,505
+Carmen,69
+Tlajomulco De Zuniga,758
+Cosoleacaque,15
+Ramos Arizpe,365
+Quiroga,19
+Coyoacan,274
+Fortin,66
+Guamuchil,76
+Gustavo A. Madero,81
+Ayala,137
+Chignahuapan,88
+Tlaquepaque,394
+Adolfo Lopez Mateos,33
+Tuxtla Gutierrez,2655
+Zinacantepec,15
+Tecoman,92
+Miguel Aleman,37
+San Jose Del Cabo,475
+Teoloyucan,21
+Texcoco,417
+Zaragoza,11
+Orizaba,542
+Bermejillo,5
+Tlahuelilpan,13
+Tlaltizapan,17
+Morelos,18
+Jungapeo,10
+Santiago Ixcuintla,11
+San Vicente,3
+Omitlan De Juarez,9
+Puerto Adolfo Lopez Mateos,4
+Cintalapa,18
+Tuxpan De Rodriguez Cano,9
+Tuxpan,356
+Ajijic,11
+Monclova,419
+Ostuacan,15
+Nacajuca,7
+Ampliacion La Cebada,5
+San Martin Cuautlalpan,12
+Ruiz,3
+Jerez,31
+Comalcalco,19
+Fortin De Las Flores,73
+Lerdo,15
+Taxco De Alarcon,88
+Nacozari De Garcia,15
+Autlan De Navarro,54
+Juan Aldama,6
+San Miguel Zinacantepec,8
+Jacona De Plancarte,3
+Rioverde,39
+Ixtapan De La Sal,7
+Tlalpujahua,8
+Teotitlan De Flores Magon,2
+Cardenas,52
+Jardines De San Mateo,5
+San Salvador Cuauhtenco,8
+Jacona,16
+Mixquiahuala De Juarez,3
+General Zuazua,4
+Chamula,11
+Santiago Norte,5
+Puerto Libertad,10
+Ixtenco,8
+Cuichapa,3
+Yajalon,4
+Jiquipilco,12
+Villa Cuauhtemoc,1
+Constitucion,31
+Jaltipan,1
+Jalpa De Mendez,17
+Lomas De Plateros,9
+Coyuca De Catalan,14
+Gonzales Ortega,4
+Atoyac,14
+Chiautla De Tapia,3
+Actopan,32
+Zongolica,4
+El Mezquite,2
+Vista Hermosa De Negrete,2
+Zapotiltic,15
+Lo Arado,4
+Ciudad General Escobedo,3
+Tlayacapan,7
+Paraiso,34
+Churintzio,2
+Tlaltenango,11
+San Agustin Tlaxiaca,1
+Lomas De Zaragoza,7
+San Francisco Ixhuatan,1
+El Marques,8
+Zopoco,1
+Rosario,2
+Monterrey,12514
+Yauhquemehcan,12
+Chetumal,370
+Huamantla,7
+Coatzacoalcos,2018
+El Espinal,10
+Reynosa,1439
+Cutzamala De Pinzon,3
+Colima,1118
+Tafetan,2
+Aguascalientes,3240
+Tixtla,14
+Irapuato,1357
+El Grullo,38
+Tapachula,588
+Mapastepec,5
+Tenango Del Valle,37
+Tlaxco,3
+Iguala De La Independencia,728
+Santa Clara De Valladares,2
+Chimalhuacan,641
+China,6
+Tampico,643
+Agricola Oriental,10
+Ahualulco De Mercado,1
+Alpoyeca,3
+San Cristobal De Las Casas,404
+Atlamajac,4
+San Juan Del Rio,265
+Mexicaltzingo,3
+Comitan,9
+Tetla,2
+Avandaro,30
+San Pablo Apetatitlan,1
+Lerma,202
+Santa Maria Tonameca,3
+Acuna,23
+El Salto,10
+Emiliano Zapata,28
+Calvillo,3
+Ixmiquilpan,58
+Merced Balbuena,3
+Bahia Tortugas,10
+Tixtla De Guerrero,7
+Armeria,4
+Cosamaloapan,3
+Temixco,60
+Cedral,2
+Encarnacion De Diaz,55
+El Cercado,2
+Ciudad Valles,75
+Pedregal De Santo Domingo,2
+Calimaya,74
+San Mateo Cuanala,2
+Tenancingo,56
+Cuautitlan De Romero Rubio,4
+Macuspana,68
+Rincon De Guayabitos,1
+Queseria,7
+Santa Ana Pacueco,3
+Huejutla De Reyes,43
+Morelia,2524
+Piedras Negras,86
+Ciudad Obregon,293
+Santiago Miahuatlan,16
+San Andres Tuxtla,57
+Hidalgo Del Parral,20
+Tala,181
+Zacatepec,51
+Cuauhtemoc,201
+Arcelia,22
+El Arenal (camino Al Arenal),24
+Huixtla,11
+Oaxaca,1712
+Uman,20
+Ciudad Altamirano,39
+Atenco,19
+Tulancingo,346
+Delegacion Alvaro Obregon,13
+Tecamac,625
+Rafael Lara Grajales,11
+Comitan De Dominguez,49
+Berriozabal,8
+Salvatierra,73
+Tepoztlan,83
+Tamazula De Gordiano,21
+Montemorelos,33
+Venustiano Carranza,15
+Yahualica De Gonzalez Gallo,15
+San Pablo Del Monte,9
+Rio Blanco,14
+Santa Ana Chiautempan,5
+Guadalupe Victoria,9
+Tianguistenco,9
+Agua Dulce,15
+Cuautlancingo,9
+Heroica Nogales,23
+Gomez Palacio,159
+Curazao,5
+Victor Rosales,21
+Sayula,18
+Santa Catarina,255
+Chicoloapan,22
+Nahuatzen,19
+Mineral Del Monte,8
+Toluca De Lerdo,43
+Loma Bonita,16
+Cocotitlan,12
+Presa Blanca,7
+Navolato,17
+Cuitlahuac,5
+Ciudad Victoria,12
+Xalisco,25
+Bacum,2
+Pantepec,23
+Lagos De Moreno,88
+Purisima Del Rincon,6
+Alvarez Del Castillo,1
+San Buenaventura,2
+Pabellon De Arteaga,6
+Ciudad Benito Juarez,5
+San Pedro Mixtepec,14
+Aldama,10
+Tancitaro,7
+Papantla De Olarte,8
+Xochimilco,21
+Vertiz Narvarte,6
+Cosamaloapan De Carpio,7
+Ometepec,2
+Temascaltepec,8
+Tamuin,7
+Rio Bravo,52
+Valles,7
+Cortazar,84
+Villa Corona,5
+Escuinapa,33
+Tlalixtac De Cabrera,7
+Petatlan,6
+Tempoal,3
+Ciudad Nezahualcoyotl,131
+Ayotlan,2
+Mayorazgos Del Bosque,5
+Tlapacoyan,8
+Mendoza,3
+Lo De Marcos,2
+Progreso Tizapan,12
+Melchor Muzquiz,9
+Melchor Ocampo,28
+Tierra Colorada,7
+San Pedro Comitancillo,4
+El Canton,3
+Ayutla,20
+Juanacatlan,4
+Naranjos,12
+Patzcuaro,5
+Angel R. Cabada,8
+Escuinapa De Hidalgo,10
+Tlacolula De Matamoros,2
+Acatic,4
+Chiautla,4
+Chapala,4
+Francisco I. Madero,8
+Muzquiz,2
+Atizapan,11
+Rincon De Romos,4
+Pensil Norte,6
+Atotonilco,4
+Todos Santos,3
+Tarimbaro,4
+Tepexpan,8
+Escuintla,1
+Maxcanu,9
+Heroica Guaymas,1
+Chacalapa,3
+Imuris,2
+Cuaxomulco,5
+Puerto Morelos,1
+Puerto San Carlos,8
+Valle Hermoso,2
+San Ignacio De Loyola,5
+Compostela,2
+Tula,10
+Zacapoaxtla,1
+Jamay,3
+Zapopan,8498
+El Arenal,5
+Toluca,6660
+Delegacion Miguel Hidalgo,7
+Cuernavaca,4128
+Union Hidalgo,7
+Caborca,148
+Huandacareo,3
+La Paz,1535
+Villaflores,3
+Cozumel,95
+General Enrique Estrada,2
+Zacatecas,695
+San Julian,2
+Nuevo Laredo,310
+San Miguel Tecpan,3
+Celaya,1770
+Cuatrocienegas,5
+Salamanca,330
+Ecuandureo,2
+Cuautla,309
+Degollado,1
+Puente De Ixtla,17
+Chinameca,2
+Chiautempan,23
+Chapultepec Sur,1
+Iztapalapa,196
+Huimanguillo,2
+Salina Cruz,232
+Culiacan,4281
+Miguel Hidalgo,501
+Mexico,30215
+Asuncion Ixtaltepec,195
+Zacatlan,102
+Dolores Hidalgo,96
+Cordoba,1311
+Zumpango,206
+Corregidora,59
+Cadereyta De Montes,16
+San Ignacio Rio Muerto,16
+Altotonga,12
+Acapulco,1112
+Huauchinango,131
+Naucalpan De Juarez,1422
+Laredo,3
+Apodaca,755
+Atotonilco De Tula,131
+Nezahualcoyotl,2674
+Chiconcuac,18
+Silao,96
+Lecheria,4
+Matias Romero,46
+Hunucma,18
+Papantla,60
+Colonia Del Valle,7
+Valle De Bravo,43
+Lindavista Norte,2
+Pijijiapan,4
+Tlalmanalco,13
+Santiago Papasquiaro,24
+Sombrerete,4
+Alto Lucero,10
+Tarimoro,1
+Cadereyta Jimenez,15
+Felipe Carrillo Puerto,30
+Empalme,45
+Timilpan,54
+Mulege,23
+Lopez Mateos,19
+Teocaltiche,17
+Dimas,28
+Chalco De Diaz Covarrubias,136
+San Juan Bautista Tuxtepec,34
+Yautepec,101
+Cintalapa De Figueroa,19
+Apan,27
+La Piedad De Cabadas,16
+San Francisco Chilpan,11
+Ixtlan De Los Hervores,1
+Jilotepec,28
+Compositores Mexicanos,10
+Tlaquiltenango,42
+Cocorit,9
+Palenque,36
+Santa Maria Huatulco,40
+Santa Martha Acatitla,6
+Villa Guerrero,11
+Soledad De Graciano Sanchez,31
+Omealca,5
+Ixtlahuacan De Los Membrillos,44
+Zamora De Hidalgo,6
+Los Reyes La Paz,15
+Ixtlan,7
+Juchipila,5
+Zacapu,15
+Tepeji Del Rio De Ocampo,8
+Acocomotla,9
+Tecamac De Felipe Villanueva,36
+Gutierrez Zamora,4
+San Nicolas,33
+Garza Garcia,2
+El Pueblito,4
+Tetela De Ocampo,4
+Uriangato,46
+Lagunillas,3
+Tepeji Del Rio,43
+Tonaya,7
+Yurecuaro,17
+Chapa De Mota,4
+Romita,10
+Tecate,7
+Polotitlan,8
+Rosamorada,2
+San Mateo Mexicaltzingo,6
+Tepalcatepec,2
+Ahuacatlan,2
+Sultepec,6
+Altar,15
+Zacoalco De Torres,7
+Colotlan,14
+San Francisco Tlaltenco,2
+Las Choapas,20
+Quitupan,4
+San Luis Apizaquito,4
+Manuel Doblado,1
+Nuevo Ideal,11
+Xochipala,1
+Tecuala,5
+Leon De Los Aldama,7
+Balancan,14
+Tuxtla,1
+Santiago De Queretaro,10
+Saltabarranca,1
+Delegacion Cuauhtemoc,1
+Villagran,2
+San Isidro Del Llanito,6
+Santo Tomas,1
+Ocozocoautla,5
+Tlatlauquitepec,6
+Hidalgotitlan,2
+Alamo,14
+Tantoyuca,8
+Paracuaro,5
+Coamiles,3
+Cardel,4
+Escarcega,8
+Akumal,2
+El Pescadero,2
+San Luis Soyatlan,1
+Rincon De Tamayo,5
+Jahuara Primero,4
+Delegacion Tlahuac,1
+Alamos,3
+Luvianos,4
+Angangueo,2
+Zacatepec De Hidalgo,1
+Nuevo Progreso,1
+Axtla De Terrazas,1
